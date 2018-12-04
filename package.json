@@ -1,0 +1,13 @@
+{
+  "id": "youtubemusic",
+  "name": "Youtube Music",
+  "version": "0.0.1",
+  "description": "This is the unofficial Franz recipe for Youtube Music",
+  "main": "index.js",
+  "author": "Rafael Gumieri <rgumieri@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/gumieri/franz-youtubemusic",
+  "config": {
+    "serviceURL": "https://music.youtube.com/"
+  }
+}
